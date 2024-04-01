@@ -8,26 +8,46 @@ redirect_from:
 ---
 
 牟怡博士系上海交通大学媒体与传播学院教授、博士生导师，未来媒体与人机传播研究中心主任，上海市浦江人才（2017），上海市社科新人（2019），爱思唯尔中国高被引学者（2021、2022、2023），同时担任中国新闻史学会健康传播专委会理事和中国科技新闻学会科技传播理论专委会理事等社会兼职。
-主要研究领域为人机传播和科技传播，已发表50余篇SSCI和CSSCI期刊论文，出版著作6部，主持国家社科一般项目等多项省部级及以上项目。现为包括Journal of Broadcasting & Electronic Media（SSCI期刊）和Journal of Communication（SSCI期刊）在内的五份国际学术期刊编委，并担任包括New Media & Society、Journal of Computer-Mediated Communication等期刊在内的20余份国际学术期刊的论文评审，系国际传播学会、国际中华传播学会和中国新闻史学会会员，及中华预防医学会健康传播专业学组成员。多次荣获国际国内学术奖项，包括新闻与大众传播教育学会The Stevenson Faculty Paper Competition First Place Award（2013），The Asian Journal of Communication Award for International Communication Research（2013），上海交大-国际传播学会新媒体国际论坛最佳论文（2016），全球传播论坛最佳论文（2018）、中国新闻史学会学术年会优秀论文（2018）、第四届“全国新闻学青年学者优秀学术成果”专著奖（2018）等荣誉。
+
+主要研究领域为人机传播和科技传播，已发表50余篇SSCI和CSSCI期刊论文，出版著作6部，主持国家社科一般项目等多项省部级及以上项目。
+
+现为包括Journal of Broadcasting & Electronic Media（SSCI期刊）和Journal of Communication（SSCI期刊）在内的五份国际学术期刊编委，并担任包括New Media & Society、Journal of Computer-Mediated Communication等期刊在内的20余份国际学术期刊的论文评审，系国际传播学会、国际中华传播学会和中国新闻史学会会员，及中华预防医学会健康传播专业学组成员。
+
+多次荣获国际国内学术奖项，包括新闻与大众传播教育学会The Stevenson Faculty Paper Competition First Place Award（2013），The Asian Journal of Communication Award for International Communication Research（2013），上海交大-国际传播学会新媒体国际论坛最佳论文（2016），全球传播论坛最佳论文（2018）、中国新闻史学会学术年会优秀论文（2018）、第四届“全国新闻学青年学者优秀学术成果”专著奖（2018）等荣誉。
+
 Yi Mou, Ph.D., is Professor of Human-Machine Communication at the School of Media and Communication, Shanghai Jiao Tong University. 
 Director of the Center for Future Media and Human-Machine Communication
+
 2017 Shanghai Pujiang Scholar
+
 2019 Shanghai Rising Scholar in Social Science
+
 2021-2023 Most Cited Chinese Researcher by Elsevier 
+
 B.S. in Chemistry from University of Science & Technology of China
-	M.A. in Chemistry and M.A. in Communication from Boston University (US) and Michigan State University (US)
-	Ph.D. in Communication from University of Connecticut (US)
+	
+M.A. in Chemistry and M.A. in Communication from Boston University (US) and Michigan State University (US)
+	
+Ph.D. in Communication from University of Connecticut (US)
+
 Editorial Board Member of Journal of Broadcasting and Electronic Media, Chinese Journal of Communication, Communication Studies, Human-Machine Communication Journal
+
 Awardee of Top Paper Awards from AEJMC, NCA and SJTU-ICA International New Media Forum, etc.
 
 Research
 ======
 我的研究领域包含两个相对独立又时而交叉的方向，人机传播和科技传播，我称之为1.8个研究方向。它们分别代表着我作为研究者的时而交织时而互斥的研究理念。
+
 （1）人机传播
+
 研究理念:人机传播的研究让我能将我推崇的西方古典科学精神进行到底。求知应该很纯粹，不应过多追求当下的实用性。人类科技的进步很多时候反而是通过这些“无用”的研究来推动的。作为研究者，我很享受这样仅仅出于好奇心而进行的研究。
+
 研究内容:目前我主要关注人在与人工智能交流时的交流模式和心理认知等。例如，人与人工智能交流时所展示出的去性别化语言，以及不同的人格特征等等。
+
 （2）科技传播
+
 研究理念:中国传统文化成长起来的识字分子（不敢妄称知识分子）总会有些回报社会的情怀，科技传播领域的研究可以让这种情怀落地，因为每个科技传播议题是真切存在的。我希望我的研究成果能够为当下众多的科技传播问题提供哪怕一点点解决思路。
+
 研究内容:目前我主要关注本土文化下的科技传播模式建构，以及如何利用新媒体手段进行有效的环境健康促进。
 
 My primary research interest is centered on human-machine communication. I have published papers in prominent communication journals such as New Media & Society, Computers in Human Behavior, Science Communication, International Journal of Human-Computer Interaction, etc. I’ve also secured multiple grants, including one from National Social Science Foundation of China and one from the Humanity and Social Science Youth Foundation of Ministry of Education of China.
@@ -40,13 +60,19 @@ My Advising Philosophy
 如果说这艘船一定要有什么显著的特质的话，那我认为应该是：船上的每一个人（包括我自己）都应该对这个世界保持一颗强烈的好奇心，并拥有与之匹配的探索能力。
 
 作为船长/导师，我强调三种能力：
+
 *围绕特定问题深入思考的能力；
+
 *深度分析数据的能力；
+
 *出色的中英文交流、分享能力。
 
 因此，在这次航行中，我会因材施教地带领大家做以下训练：
+
 *广泛、深度地阅读各种文献与书籍，尤其是一手英文文献的阅读；
+
 *研究设计+数据分析；
+
 *Presentation + Public speaking skills.
 
 我是一个最没有“师道尊严”概念的人。我不认为“老师”这个身份就应该自带“受人尊敬”的属性。尊敬是赢来的，建立在学识与人品基础之上；如果在此基础之上还恰巧是个可爱的人，那就更好了。
@@ -60,28 +86,3 @@ My Advising Philosophy
 你既需要有做一流研究的雄心，又要有把冷板凳坐热的耐力，当然还需要down-to-earth的务实。你若如此，我必倾囊相授。
 
 所以，想用PhD装点门面，或人云亦云者，请绕道而行。
-
-
-## Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
