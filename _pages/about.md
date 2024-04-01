@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "牟怡"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,6 +9,16 @@ redirect_from:
 
 牟怡博士系上海交通大学媒体与传播学院教授、博士生导师，未来媒体与人机传播研究中心主任，上海市浦江人才（2017），上海市社科新人（2019），爱思唯尔中国高被引学者（2021、2022、2023），同时担任中国新闻史学会健康传播专委会理事和中国科技新闻学会科技传播理论专委会理事等社会兼职。
 主要研究领域为人机传播和科技传播，已发表50余篇SSCI和CSSCI期刊论文，出版著作6部，主持国家社科一般项目等多项省部级及以上项目。现为包括Journal of Broadcasting & Electronic Media（SSCI期刊）和Journal of Communication（SSCI期刊）在内的五份国际学术期刊编委，并担任包括New Media & Society、Journal of Computer-Mediated Communication等期刊在内的20余份国际学术期刊的论文评审，系国际传播学会、国际中华传播学会和中国新闻史学会会员，及中华预防医学会健康传播专业学组成员。多次荣获国际国内学术奖项，包括新闻与大众传播教育学会The Stevenson Faculty Paper Competition First Place Award（2013），The Asian Journal of Communication Award for International Communication Research（2013），上海交大-国际传播学会新媒体国际论坛最佳论文（2016），全球传播论坛最佳论文（2018）、中国新闻史学会学术年会优秀论文（2018）、第四届“全国新闻学青年学者优秀学术成果”专著奖（2018）等荣誉。
+Yi Mou, Ph.D., is Professor of Human-Machine Communication at the School of Media and Communication, Shanghai Jiao Tong University. 
+Director of the Center for Future Media and Human-Machine Communication
+2017 Shanghai Pujiang Scholar
+2019 Shanghai Rising Scholar in Social Science
+2021-2023 Most Cited Chinese Researcher by Elsevier 
+B.S. in Chemistry from University of Science & Technology of China
+	M.A. in Chemistry and M.A. in Communication from Boston University (US) and Michigan State University (US)
+	Ph.D. in Communication from University of Connecticut (US)
+Editorial Board Member of Journal of Broadcasting and Electronic Media, Chinese Journal of Communication, Communication Studies, Human-Machine Communication Journal
+Awardee of Top Paper Awards from AEJMC, NCA and SJTU-ICA International New Media Forum, etc.
 
 A data-driven personal website
 ======
