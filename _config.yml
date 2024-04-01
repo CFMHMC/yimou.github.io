@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "牟怡"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "上海交通大学媒体与传播学院教授、博士生导师"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
