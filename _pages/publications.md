@@ -5,29 +5,32 @@ permalink: /publications/
 author_profile: true
 ---
 
-学术发表
-Publications
 
-Books
+**BOOKS**
 
-6.牟怡（2022）机器与传播：从计算机中介传播到人机传播。上海：上海交通大学出版社，2022年3月。ISBN: 978-7-313-26534-0
-	*上海交通大学出版社教材出版基金（2022年度）资助项目
+6.牟怡（2022）机器与传播：从计算机中介传播到人机传播。上海：上海交通大学出版社，2022年3月。ISBN: 978-7-313-26534-0 
 
-5. 王韬、蒋平、牟怡（主编）（2022）健康科普游戏概论：医学传播与网络游戏的融合创新。上海：上海科学技术文献出版社，2022年2月。ISBN: 978-7-5439-8505-6
+*上海交通大学出版社教材出版基金（2022年度）资助项目
+
+5. 王韬、蒋平、牟怡（主编）（2022）健康科普游戏概论：医学传播与网络游戏的融合创新。上海：上海科学技术文献出版社，2022年2月。ISBN:978-7-5439-8505-6
 
 4. Wang, T., Xu, Z., & Mou, Y. (Eds.) (2020). Medical Communication: From Theoretical Model to Practical Exploration. World Century: Singapore. ISBN: 9781945552090
 
-3. 王韬、牟怡、徐仲卿（2019）医学传播学：从理论模型到实践探索。上海：上海科技教育出版社。ISBN：9787542870063
-	*2019年度国家出版基金项目
+3. 王韬、牟怡、徐仲卿（2019）医学传播学：从理论模型到实践探索。上海：上海科技教育出版社。ISBN:9787542870063
+  
+*2019年度国家出版基金项目
 
 2. 李本乾、牟怡（主编）（2017）未来媒体：机遇与挑战——第三届上海交通大学-ICA国际新媒体论坛精粹。上海：上海交通大学出版社。ISBN：9787313181602
 
-1.牟怡 (2017) 传播的进化：人工智能将如何重塑人类的交流。北京：清华大学出版社。ISBN:   978-7-302-46362-7
+1.牟怡 (2017) 传播的进化：人工智能将如何重塑人类的交流。北京：清华大学出版社。ISBN:978-7-302-46362-7
+
 *第四届“全国新闻学青年学者优秀学术成果”专著奖
+
 *2017年清华大学出版社最佳学科融合图书奖
+
 *繁体版《AI傳播進化：人工智慧重塑人類的交流》于2020年1月由台湾清文华泉事业有限公司出版
 
-Peer-reviewed journal articles
+**Peer-reviewed Journal Articles**
 
 57. Pan, S., & Mou, Y.* (Accepted). Framing the Discourse of Pregnancy and Childbirth: A Content Analysis of WeChat Public Account Posts from the Post-Feminist Perspective. Women’s Studies in Communication [ESCI]
 
@@ -64,7 +67,8 @@ Peer-reviewed journal articles
 41. 李佳楠、牟怡（2022）作为媒介的自拍：基于技术偏向性的审视。《传媒观察》第9期，51-58页。[C刊]
 
 40. 牟怡（2022）信息分享到共同体验：元宇宙带来传播范式革新。上海师范大学学报，第9期，117-125页。[C刊]
-	*此文被《新华文摘》2023年6月刊论点摘编
+	
+ *此文被《新华文摘》2023年6月刊论点摘编
 
 39. Wu, Y., Zhang, L., Wang, J., Mou, Y.* (2021). Communicating Air Quality Index Information: Effects of Different Styles on Individuals’ Risk Perception and Precaution Intention. International Journal of Environmental Research and Public Health, 18(19), 10542. doi:10.3390/ijerph181910542. [SSCI Journal]
 
@@ -141,14 +145,15 @@ Peer-reviewed journal articles
 4. Fu, H., Mou, Y., Miller, M. J., & Jalette, G. (2011). Reconsidering political cynicism and political involvement: A test of antecedents. American Communication Journal, 13(2), 44-61. 
 
 3. Fu, H., & Mou, Y. (2010).  An assessment of the 2008 telecommunications restructuring in China.  Telecommunications Policy, 34(10), 649-658. doi: 10.1016/j.telpol.2010.08.001 [SSCI Journal]
-	* One of the most cited articles published since 2010, extracted from Scopus of Telecommunications Policy
-	http://www.journals.elsevier.com/telecommunications-policy/most-cited-articles/ 
+	
+ * One of the most cited articles published since 2010, extracted from Scopus of Telecommunications Policy
+http://www.journals.elsevier.com/telecommunications-policy/most-cited-articles/ 
 
 2. Bresnahan, M. J., Guan, X., Wang, X., & Mou, Y. (2008). The culture of the body: attitudes toward organ donation in China and the US. Chinese Journal of Communication, 1(2), 181-195. [SSCI Journal]
 
 1. Peng, W., Liu, M., & Mou, Y. (2008). Do aggressive people play violent computer games in a more aggressive way? Individual difference and idiosyncratic game-playing experience. CyberPsychology, Behavior & Social Networking, 11(2), 157-161. [SSCI Journal]
 
-Book chapters
+**Book Chapters**
 
 10. Mou, Y., & Wu, Y. (2023). Communicating with conversational assistants: Uses, contexts, and effects. In A. Guzman, R. McEwen, & S. Jones (Eds.), The Sage Handbook off Human-Machine Communication. Sage Press.
 
@@ -170,7 +175,7 @@ Book chapters
 
 1. Mou, Y., & Peng, W. (2008). Gender and racial stereotypes in popular video games. In R. E. Ferdig (Ed.), Handbook of Research on Effective Electronic Gaming in Education (pp. 922-937). Hershey, PA: IGI Global.
 
-OTHER REFERRED PUBLICATIONS (in Chemistry)
+**OTHER REFERRED PUBLICATIONS (in Chemistry)**
 
 3. Fu, Y., Liu, L., Mou, Y., Lin, B. L., & Guo, Q. X. (2004). Alfa and remote substituent effects on the hemolytic dissociation energies of O-H bonds. Journal of Molecular Structure (Theochem), 674(1-3), 241-249. [SCI Journal]
 
