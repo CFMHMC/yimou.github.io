@@ -35,32 +35,30 @@ author_profile: true
 **Peer-reviewed Journal Articles**
 
 71. Chen, J., & **Mou, Y**. (2025 Online First). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience. Journal of Information Technology & Politics https://www.tandfonline.com/doi/full/10.1080/19331681.2025.2592126 
-70. 王豪、胡翼青、**牟怡**、孙玮、甘莅豪.连线大脑将如何重塑人类交往方式？（学术对谈）[J].现代出版,2025,(09):54-71. DOI:CNKI:SUN:DXCB.0.2025-09-005.
-69. Chen, J., Zeng, W., & **Mou, Y**. (2025 Online First). Nationalism Meets Machine Heuristics: Investigating the Effect of AI's "Nationality" on the Perceived Credibility of AIGC. Technology in Society https://www.sciencedirect.com/science/article/pii/S0160791X25002222 
-68. **牟怡**、黄译禾（2025）作为媒介唤起物的“超越性异常”：大语言模型用户的AI之思与诗。《传媒观察》2025年第7期，45-56页。
-67. **牟怡**、蓝剑锋（2025）从“机事”到“机心”：“Z世代”与智能技术的深度意义交互及其数字生命观形成。《新闻与传播研究》2025年第6期，17-29页。  
-66. Pan, S., & **Mou, Y**. (2025 Online First). Dancing with a Loving Chatbot: Power Dynamics between Women and their AI Partners. Social Science Computer Review. [SSCI Journal] https://journals.sagepub.com/eprint/MT3FDXJGHVI89UJDTE6W/full 
-65. Guan,Y., Pan, S., & **Mou, Y**. (2025). The Ritual of Objectivity vs. the Ritual of Emotionality: Emotion Display and the Credibility of Virtual Newscasters. Journalism Studies, 26(12), 1513–1534. https://doi.org/10.1080/1461670X.2025.2537357 [SSCI Journal] 
-64. Yeilaghi, N., & **Mou, Y**. (2025). Artificial Intelligence and Digital Deification: Examining the Constructing of Donald Trump's Superhuman Persona. Javnost - The Public, 32(1), 115-139. https://doi.org/10.1080/13183222.2025.2478787 [SSCI Journal]    
-63. Wu, Y., Dong, Y., **Mou, Y**., & Kim, K. J. (2025, April). How the Algorithmic Transparency of Search Engines Influences Health Anxiety: The Mediating Effects of Trust in Online Health Information Search. Proceeding of the CHI 2025.   
-62. 张连珊、**牟怡**（2024）隐匿的藩篱: 老年群体社交机器人抵触的心理机制探析。《全球传媒学刊》2024年第12期，121-144页。[C刊]    
-61. Li, S., **Mou, Y**., & Xu, J.* (2025). Disclosing Personal Health Information to Emotional Human Doctors or Unemotional AI Doctors? Experimental Evidence Based on Privacy Calculus Theory. International Journal of Human-Computer Interaction, 41(14), 8593-8605. [SSCI Journal] 
-60. Pan, S., & **Mou, Y**. (2025). Team up with AI or Human? Investigating Candidates’ Self-Categorization as Fluidity and Ingroup-Serving Attribution When Judged by a Human–AI Hybrid Jury. International Journal of Human-Computer Interaction, 41(13), 8343–8354. https://doi.org/10.1080/10447318.2024.2408511 [SSCI Journal]
-59. Pan, S., & 71. Chen, J., & Mou, Y.* (2025 Online First). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience. Journal of Information Technology & Politics https://www.tandfonline.com/doi/full/10.1080/19331681.2025.2592126 
-70. 王豪、胡翼青、牟怡、孙玮、甘莅豪.连线大脑将如何重塑人类交往方式？（学术对谈）[J].现代出版,2025,(09):54-71. DOI:CNKI:SUN:DXCB.0.2025-09-005.
-69. Chen, J., Zeng, W., & Mou, Y.* (2025 Online First). Nationalism Meets Machine Heuristics: Investigating the Effect of AI's "Nationality" on the Perceived Credibility of AIGC. Technology in Society https://www.sciencedirect.com/science/article/pii/S0160791X25002222 
-68. 牟怡、黄译禾（2025）作为媒介唤起物的“超越性异常”：大语言模型用户的AI之思与诗。《传媒观察》2025年第7期，45-56页。
-67. 牟怡、蓝剑锋（2025）从“机事”到“机心”：“Z世代”与智能技术的深度意义交互及其数字生命观形成。《新闻与传播研究》2025年第6期，17-29页。
-66. Pan, S., & Mou, Y.* (2025 Online First). Dancing with a Loving Chatbot: Power Dynamics between Women and their AI Partners. Social Science Computer Review. [SSCI Journal] https://journals.sagepub.com/eprint/MT3FDXJGHVI89UJDTE6W/full 
-65. Guan,Y., Pan, S., & Mou, Y.* (2025). The Ritual of Objectivity vs. the Ritual of Emotionality: Emotion Display and the Credibility of Virtual Newscasters. Journalism Studies, 26(12), 1513–1534. https://doi.org/10.1080/1461670X.2025.2537357 [SSCI Journal] 
-64. Yeilaghi, N., & Mou, Y.* (2025). Artificial Intelligence and Digital Deification: Examining the Constructing of Donald Trump's Superhuman Persona. Javnost - The Public, 32(1), 115-139. https://doi.org/10.1080/13183222.2025.2478787 [SSCI Journal]
-63. Wu, Y., Dong, Y., Mou, Y., & Kim, K. J. (2025, April). How the Algorithmic Transparency of Search Engines Influences Health Anxiety: The Mediating Effects of Trust in Online Health Information Search. Proceeding of the CHI 2025. 
-62. 张连珊、牟怡（2024）隐匿的藩篱: 老年群体社交机器人抵触的心理机制探析。《全球传媒学刊》2024年第12期，121-144页。[C刊]
-61. Li, S., Mou, Y., & Xu, J.* (2025). Disclosing Personal Health Information to Emotional Human Doctors or Unemotional AI Doctors? Experimental Evidence Based on Privacy Calculus Theory. International Journal of Human-Computer Interaction, 41(14), 8593-8605. [SSCI Journal] 
 
-60. Pan, S., & Mou, Y.* (2025). Team up with AI or Human? Investigating Candidates’ Self-Categorization as Fluidity and Ingroup-Serving Attribution When Judged by a Human–AI Hybrid Jury. International Journal of Human-Computer Interaction, 41(13), 8343–8354. https://doi.org/10.1080/10447318.2024.2408511 [SSCI Journal]
-    
-59. Pan, S., & Mou, Y.* (2024). Constructing the meaning of human–AI romantic relationships from the perspectives of users dating the social chatbot Replika. Personal Relationships, 31(4), 1090-1112. https://doi.org/10.1111/pere.12572 [SSCI]. (2024). Constructing the meaning of human–AI romantic relationships from the perspectives of users dating the social chatbot Replika. Personal Relationships, 31(4), 1090-1112. https://doi.org/10.1111/pere.12572 [SSCI]
+70. 王豪、胡翼青、**牟怡**、孙玮、甘莅豪.连线大脑将如何重塑人类交往方式？（学术对谈）[J].现代出版,2025,(09):54-71. DOI:CNKI:SUN:DXCB.0.2025-09-005.
+
+69. Chen, J., Zeng, W., & **Mou, Y**. (2025 Online First). Nationalism Meets Machine Heuristics: Investigating the Effect of AI's "Nationality" on the Perceived Credibility of AIGC. Technology in Society https://www.sciencedirect.com/science/article/pii/S0160791X25002222 
+
+68. **牟怡**、黄译禾（2025）作为媒介唤起物的“超越性异常”：大语言模型用户的AI之思与诗。《传媒观察》2025年第7期，45-56页。
+
+67. **牟怡**、蓝剑锋（2025）从“机事”到“机心”：“Z世代”与智能技术的深度意义交互及其数字生命观形成。《新闻与传播研究》2025年第6期，17-29页。  
+
+66. Pan, S., & **Mou, Y**. (2025 Online First). Dancing with a Loving Chatbot: Power Dynamics between Women and their AI Partners. Social Science Computer Review. [SSCI Journal] https://journals.sagepub.com/eprint/MT3FDXJGHVI89UJDTE6W/full 
+
+65. Guan,Y., Pan, S., & **Mou, Y**. (2025). The Ritual of Objectivity vs. the Ritual of Emotionality: Emotion Display and the Credibility of Virtual Newscasters. Journalism Studies, 26(12), 1513–1534. https://doi.org/10.1080/1461670X.2025.2537357 [SSCI Journal] 
+
+64. Yeilaghi, N., & **Mou, Y**. (2025). Artificial Intelligence and Digital Deification: Examining the Constructing of Donald Trump's Superhuman Persona. Javnost - The Public, 32(1), 115-139. https://doi.org/10.1080/13183222.2025.2478787 [SSCI Journal]    
+
+63. Wu, Y., Dong, Y., **Mou, Y**., & Kim, K. J. (2025, April). How the Algorithmic Transparency of Search Engines Influences Health Anxiety: The Mediating Effects of Trust in Online Health Information Search. Proceeding of the CHI 2025.   
+
+62. 张连珊、**牟怡**（2024）隐匿的藩篱: 老年群体社交机器人抵触的心理机制探析。《全球传媒学刊》2024年第12期，121-144页。[C刊]    
+
+61. Li, S., **Mou, Y**., & Xu, J.* (2025). Disclosing Personal Health Information to Emotional Human Doctors or Unemotional AI Doctors? Experimental Evidence Based on Privacy Calculus Theory. International Journal of Human-Computer Interaction, 41(14), 8593-8605. [SSCI Journal] 
+
+60. Pan, S., & **Mou, Y**. (2025). Team up with AI or Human? Investigating Candidates’ Self-Categorization as Fluidity and Ingroup-Serving Attribution When Judged by a Human–AI Hybrid Jury. International Journal of Human-Computer Interaction, 41(13), 8343–8354. https://doi.org/10.1080/10447318.2024.2408511 [SSCI Journal]
+
+59. Pan, S., & Mou, Y.* (2024). Constructing the meaning of human–AI romantic relationships from the perspectives of users dating the social chatbot Replika. Personal Relationships, 31(4), 1090-1112. https://doi.org/10.1111/pere.12572 [SSCI]
 
 58.**牟怡** & 吴宇恒. (2024).从准社会关系到人机关系：基于原真性与互动性的双维度归类模型. 当代传播(03),9-14. [C刊]
 
