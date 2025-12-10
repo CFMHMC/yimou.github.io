@@ -57,7 +57,9 @@ author_profile: true
 63. Wu, Y., Dong, Y., Mou, Y., & Kim, K. J. (2025, April). How the Algorithmic Transparency of Search Engines Influences Health Anxiety: The Mediating Effects of Trust in Online Health Information Search. Proceeding of the CHI 2025. 
 62. 张连珊、牟怡（2024）隐匿的藩篱: 老年群体社交机器人抵触的心理机制探析。《全球传媒学刊》2024年第12期，121-144页。[C刊]
 61. Li, S., Mou, Y., & Xu, J.* (2025). Disclosing Personal Health Information to Emotional Human Doctors or Unemotional AI Doctors? Experimental Evidence Based on Privacy Calculus Theory. International Journal of Human-Computer Interaction, 41(14), 8593-8605. [SSCI Journal] 
-60. Pan, S., & Mou, Y.* (2025). Team up with AI or Human? Investigating Candidates’ Self-Categorization as Fluidity and Ingroup-Serving Attribution When Judged by a Human–AI Hybrid Jury. International Journal of Human-Computer Interaction, 41(13), 8343–8354. https://doi.org/10.1080/10447318.2024.2408511 [SSCI Journal] 
+
+60. Pan, S., & Mou, Y.* (2025). Team up with AI or Human? Investigating Candidates’ Self-Categorization as Fluidity and Ingroup-Serving Attribution When Judged by a Human–AI Hybrid Jury. International Journal of Human-Computer Interaction, 41(13), 8343–8354. https://doi.org/10.1080/10447318.2024.2408511 [SSCI Journal]
+    
 59. Pan, S., & Mou, Y.* (2024). Constructing the meaning of human–AI romantic relationships from the perspectives of users dating the social chatbot Replika. Personal Relationships, 31(4), 1090-1112. https://doi.org/10.1111/pere.12572 [SSCI]. (2024). Constructing the meaning of human–AI romantic relationships from the perspectives of users dating the social chatbot Replika. Personal Relationships, 31(4), 1090-1112. https://doi.org/10.1111/pere.12572 [SSCI]
 
 58.**牟怡** & 吴宇恒. (2024).从准社会关系到人机关系：基于原真性与互动性的双维度归类模型. 当代传播(03),9-14. [C刊]
