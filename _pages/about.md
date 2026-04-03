@@ -1,38 +1,17 @@
 ---
 permalink: /
-title: "About Me"
+title: "About the Real Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-牟怡博士系上海交通大学媒体与传播学院教授、博士生导师，未来媒体与人机传播研究中心主任，上海市浦江人才（2017），上海市社科新人（2019），爱思唯尔中国高被引学者（2021、2022、2023），同时担任中国新闻史学会健康传播专委会理事和中国科技新闻学会科技传播理论专委会理事等社会兼职。
-
-主要研究领域为人机传播，已发表50余篇SSCI和CSSCI期刊论文，出版著作6部，主持国家社科一般项目等多项省部级及以上项目。
-
-现为包括Journal of Broadcasting & Electronic Media（SSCI期刊）和Journal of Communication（SSCI期刊）在内的五份国际学术期刊编委，并担任包括New Media & Society、Journal of Computer-Mediated Communication等期刊在内的20余份国际学术期刊的论文评审，系国际传播学会、国际中华传播学会和中国新闻史学会会员，及中华预防医学会健康传播专业学组成员。
-
-多次荣获国际国内学术奖项，包括新闻与大众传播教育学会The Stevenson Faculty Paper Competition First Place Award（2013），The Asian Journal of Communication Award for International Communication Research（2013），上海交大-国际传播学会新媒体国际论坛最佳论文（2016），全球传播论坛最佳论文（2018）、中国新闻史学会学术年会优秀论文（2018）、第四届“全国新闻学青年学者优秀学术成果”专著奖（2018）等荣誉。
-
-Yi Mou, Ph.D., is Professor of Human-Machine Communication at the School of Media and Communication, Shanghai Jiao Tong University. 
-Director of the Center for Future Media and Human-Machine Communication
-
-2017 Shanghai Pujiang Scholar
-
-2019 Shanghai Rising Scholar in Social Science
-
-2021-2023 Most Cited Chinese Researcher by Elsevier 
-
-B.S. in Chemistry from University of Science & Technology of China
-	
-M.A. in Chemistry and M.A. in Communication from Boston University (US) and Michigan State University (US)
-	
-Ph.D. in Communication from University of Connecticut (US)
-
-Editorial Board Member of Journal of Broadcasting and Electronic Media, Chinese Journal of Communication, Communication Studies, Human-Machine Communication Journal
-
-Awardee of Top Paper Awards from AEJMC, NCA and SJTU-ICA International New Media Forum, etc.
+作为一个以学术为志向的人，我的工作大可以说明一切。所以，我无需在此重复官方主页上的内容（如果你一定想知道的话，请参见[官方主页](https://smc.sjtu.edu.cn/teacher_detail?id=40288188905c784401905dd0003c00ef)）。在此，我更想让你了解我是一个什么样的研究者。
+首先，我的研究理念非常古典（或者说是守旧）。我推崇西方古典的科学精神。求知应该很纯粹，不应过多追求当下的实用性。人类科技的进步很多时候反而是通过这些“无用”的研究来推动的。作为研究者，我很享受这样仅仅出于好奇心而进行的研究。尽管连司马贺这样拿过图灵奖和诺贝尔奖的人都会不得不从事一些所谓的“bread-and-butter research”，我还是希望这样的研究能少一些再少一些。职业生涯的下半场，取悦自己远比体系承认更重要。
+其次，众生平等是刻入我DNA的理念。它可以体现在我对楼道保洁阿姨和对待+1到+N领导都保持一致的态度上，也体现在我对来自任何人的想法的无差别对待上。好的就是好的，差的就是差的，这与它的来源无关。所以，我对一个人的尊重与否完全与ta的帽子、名头和身份标签无关。
+再次，好奇心是我自认为最宝贵的特质。当然，这可能也是缺点，就像我可以花费三年的时间与心血，仅仅为了找到属于自己的关于钱学森之问的答案。我的好奇可以是在深夜里不断追问关于非人传播的故事，也可以是对数据分析的反复追问，无所谓好坏，只关乎自己的品味。
+最后，作为研究者，我很清楚自己的终点在哪里。我不会成为学界泰斗、学术巨擘，但是没关系，我会成为我自己。这就足够了，不是吗？
 
 Research Interest
 ======
