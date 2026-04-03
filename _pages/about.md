@@ -9,7 +9,7 @@ redirect_from:
 
 牟怡博士系上海交通大学媒体与传播学院教授、博士生导师，未来媒体与人机传播研究中心主任，上海市浦江人才（2017），上海市社科新人（2019），爱思唯尔中国高被引学者（2021、2022、2023），同时担任中国新闻史学会健康传播专委会理事和中国科技新闻学会科技传播理论专委会理事等社会兼职。
 
-主要研究领域为人机传播和科技传播，已发表50余篇SSCI和CSSCI期刊论文，出版著作6部，主持国家社科一般项目等多项省部级及以上项目。
+主要研究领域为人机传播，已发表50余篇SSCI和CSSCI期刊论文，出版著作6部，主持国家社科一般项目等多项省部级及以上项目。
 
 现为包括Journal of Broadcasting & Electronic Media（SSCI期刊）和Journal of Communication（SSCI期刊）在内的五份国际学术期刊编委，并担任包括New Media & Society、Journal of Computer-Mediated Communication等期刊在内的20余份国际学术期刊的论文评审，系国际传播学会、国际中华传播学会和中国新闻史学会会员，及中华预防医学会健康传播专业学组成员。
 
@@ -34,21 +34,13 @@ Editorial Board Member of Journal of Broadcasting and Electronic Media, Chinese 
 
 Awardee of Top Paper Awards from AEJMC, NCA and SJTU-ICA International New Media Forum, etc.
 
-Research
+Research Interest
 ======
-我的研究领域包含两个相对独立又时而交叉的方向，人机传播和科技传播，我称之为1.8个研究方向。它们分别代表着我作为研究者的时而交织时而互斥的研究理念。
-
-（1）人机传播
+我的研究领域集中在人机传播领域，在这个领域里的各个研究代表着我作为研究者的时而交织时而互斥的研究理念。
 
 研究理念:人机传播的研究让我能将我推崇的西方古典科学精神进行到底。求知应该很纯粹，不应过多追求当下的实用性。人类科技的进步很多时候反而是通过这些“无用”的研究来推动的。作为研究者，我很享受这样仅仅出于好奇心而进行的研究。
 
 研究内容:目前我主要关注人在与人工智能交流时的交流模式和心理认知等。例如，人与人工智能交流时所展示出的去性别化语言，以及不同的人格特征等等。
-
-（2）科技传播
-
-研究理念:中国传统文化成长起来的识字分子（不敢妄称知识分子）总会有些回报社会的情怀，科技传播领域的研究可以让这种情怀落地，因为每个科技传播议题是真切存在的。我希望我的研究成果能够为当下众多的科技传播问题提供哪怕一点点解决思路。
-
-研究内容:目前我主要关注本土文化下的科技传播模式建构，以及如何利用新媒体手段进行有效的环境健康促进。
 
 My primary research interest is centered on human-machine communication. I have published papers in prominent communication journals such as New Media & Society, Computers in Human Behavior, Science Communication, International Journal of Human-Computer Interaction, etc. I’ve also secured multiple grants, including one from National Social Science Foundation of China and one from the Humanity and Social Science Youth Foundation of Ministry of Education of China.
 
