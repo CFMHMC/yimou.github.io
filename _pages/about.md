@@ -11,23 +11,23 @@ redirect_from:
 
 首先，我的研究理念非常古典（或者说是守旧）。我推崇西方古典的科学精神。求知应该很纯粹，不应过多追求当下的实用性。人类科技的进步很多时候反而是通过这些“无用”的研究来推动的。作为研究者，我很享受这样仅仅出于好奇心而进行的研究。尽管连司马贺这样拿过图灵奖和诺贝尔奖的人都会不得不从事一些所谓的“bread-and-butter research”，我还是希望这样的研究能少一些再少一些。职业生涯的下半场，取悦自己远比体系承认更重要。
 
-其次，众生平等是刻入我DNA的理念。它体现在我对楼道保洁阿姨和对待+1到+N领导都保持一致的态度上，也体现在我对来自任何人的想法的无差别对待上。好的就是好的，差的就是差的，这与它的来源无关。所以，我对一个人的尊重与否完全与ta的帽子、名头和身份标签无关。
+其次，众生平等是刻入我DNA的理念。它体现在我对待楼道保洁阿姨和对待+1到+N领导都保持一致的态度上，也体现在我对来自任何人的想法的无差别对待上。好的就是好的，差的就是差的，这与它的来源无关。所以，我对一个人的尊重与否完全与ta的帽子、名头和标签无关。
 
 再次，好奇心是我自认为最宝贵的特质。当然，这可能也是缺点，就像我可以花费三年的时间与心血，仅仅为了找到属于自己的关于钱学森之问的答案。我的好奇可以是在深夜里不断追问关于非人传播的故事，也可以是对数据分析的不断往返。好奇的对象，无所谓好坏，只关乎自己的品味。
 
-最后，作为研究者，我很清楚自己的终点会在哪里。我不会成为学界泰斗、学术巨擘，但是没关系，我会成为我自己。这就足够了，不是吗？
+最后，作为研究者，我很清楚自己的终点会在哪里。我不会成为学界泰斗、学术巨擘。但是没关系，我会成为我自己。这就足够了，不是吗？
 
 
 
 Research Interest
 ======
-我的研究领域集中在人机传播领域，在这个领域里的各个研究代表着我作为研究者的时而交织时而互斥的研究理念。
+我的研究领域只有人机传播！
 
-研究理念:人机传播的研究让我能将我推崇的西方古典科学精神进行到底。求知应该很纯粹，不应过多追求当下的实用性。人类科技的进步很多时候反而是通过这些“无用”的研究来推动的。作为研究者，我很享受这样仅仅出于好奇心而进行的研究。
+我的研究领域只有人机传播！
 
-研究内容:目前我主要关注人在与人工智能交流时的交流模式和心理认知等。例如，人与人工智能交流时所展示出的去性别化语言，以及不同的人格特征等等。
+我的研究领域只有人机传播！
 
-My primary research interest is centered on human-machine communication. I have published papers in prominent communication journals such as New Media & Society, Computers in Human Behavior, Science Communication, International Journal of Human-Computer Interaction, etc. I’ve also secured multiple grants, including one from National Social Science Foundation of China and one from the Humanity and Social Science Youth Foundation of Ministry of Education of China.
+如果想知道我在做什么，可以参考我的[发表列表](https://cfmhmc.github.io/yimou.github.io/publications/)。
 
 
 My Advising Philosophy
