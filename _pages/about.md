@@ -25,7 +25,7 @@ Research Interest
 
 思路常信马由缰，随思考自然延展、不拘一隅。
 
-不过所有问题均围绕AI展开，
+不过当下所有问题均围绕AI展开，
 
 笼统而言可归为 AI social science。
 
