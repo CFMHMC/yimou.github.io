@@ -27,7 +27,7 @@ Research Interest
 
 不好听地说是没个准谱，容易被半路冒出来的问题带跑。
 
-当下所有问题都围绕AI展开，笼统算是AI社会科学（AI social science）;
+当下所有问题都围绕AI展开，笼统算是AI社会科学（social science of AI）;
 
 放到新闻传播的框架里，属于人机传播方向。
 
