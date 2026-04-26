@@ -3,21 +3,9 @@ title: 怡船长的集结号
 nav:
   order: 99
   tooltip: Yi Mou's academic musings
----
-
-# 学术随笔 / Blog
-
-Thoughts on human-machine communication, AI, and everything in between.
-
-我的研究始终以问题为导向，思路往往信马由缰。好听地说是随思考自然延展、不拘一隅；不好听地说是没个准谱，容易被半路冒出来的问题带跑。眼下所有问题都围绕 AI 展开，笼统算是 social science of AI；放到新闻传播的框架里，大致属于人机传播（human-machine communication）方向——但说实话，我更愿意让问题自己决定它归哪个学科，而不是反过来。
 
 ---
 
-{% capture text %}
-这里是第一篇随笔的内容。可以写研究心得、读论文的感想、参加学术会议的见闻，或者任何与人机传播相关的思考。
-
-每篇随笔之间用 `---`（水平线）分隔即可。
-{% endcapture %}
 
 ### 2026.04 — 写在《人机传播导论》定稿之际
 
