@@ -28,11 +28,13 @@ author_profile: true
 
 💡  我的更多资料
 
-我的官方身份：交大媒传学院的官方主页
+我的官方身份：交大媒传学院的官方主页[https://smc.sjtu.edu.cn/teacher_detail?id=40288188905c784401905dd0003c00ef]
 
 我作为主理人的未来媒体与人机传播研究中心主页：https://cfmhmc.github.io/
 
-我的个人主页：https://cfmhmc.github.io/yimou.github.io/
+我的Github主页：https://cfmhmc.github.io/yimou.github.io/
+
+我的飞书主页：个人使用说明说[https://g0p4vighsko.feishu.cn/wiki/SuVWwAmrHiPQAokTgcOcPw1Bnfb?from=from_copylink]
 
 
 ---
