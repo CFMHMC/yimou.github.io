@@ -1,5 +1,5 @@
 ---
-title: Yi Mou's Blog
+title: 怡船长的集结号
 nav:
   order: 99
   tooltip: Yi Mou's academic musings
