@@ -31,19 +31,3 @@ Thoughts on human-machine communication, AI, and everything in between.
 
 ---
 
-### 模板说明（发布前请删除此节）
-
-**如何添加新的随笔：**
-
-1. 打开 GitHub 仓库中的这个文件（`yi-mou-blog.md`）
-2. 在 `---`（第一条水平线）下方、现有随笔上方，按以下格式添加新内容：
-
-```
-### 2026.XX — 标题
-
-正文内容……
-
----
-```
-
-3. 提交（commit）后 GitHub Pages 会自动重新部署，几分钟后即可看到更新。
