@@ -1,8 +1,8 @@
 ---
-title: 怡船长的集结号
-nav:
-  order: 99
-  tooltip: Yi Mou's academic musings
+title: "怡船长的集结号"
+layout: single
+permalink: /yi-mou-blog/
+author_profile: true
 
 ---
 
