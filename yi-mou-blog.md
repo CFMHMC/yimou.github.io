@@ -19,8 +19,9 @@ HMC的热门程度自不必言，尤其在中国学者中。从今年HMC divisio
 最后附上一副艺术品的照片，非常符合我心目中的南非质感。在Chapman's Peak Drive（查普曼公路，世界上最著名的海景公路之一）的顶端停下拍照，遇到一位兜售工艺品的小哥，一聊之下原来来自津巴布韦，移民生活不易，于是跟他哥哥一起利用废材进行创作，展现开普敦的贫民窟风貌。
 
 <p align="center">
-  <img src="images/Art.png" width="60%" alt="开普敦贫民窟中生长出来的艺术">
+  <img src="https://github.com/CFMHMC/yimou.github.io/blob/master/images/Art.png" width="60%">
 </p>
+
 
 ### 2026.04 — Welcome aboard
 
