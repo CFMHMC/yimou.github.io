@@ -6,6 +6,8 @@ author_profile: true
 
 ---
 
+### 2026.06 — 开普敦ICA参会归来 一点点心得与总结 
+
 
 ### 2026.04 — Welcome aboard
 
