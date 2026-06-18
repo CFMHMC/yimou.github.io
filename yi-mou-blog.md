@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-### 2026.06 — 开普敦ICA参会归来 一点点心得与总结
+### 2026.06 — 开普敦ICA参会归来 一点点心得与体会
 
 国际传播学会（International Communication Association）年会开到第76届，终于第一次到了非洲大陆。从“给ICA加上I”这个角度，是个非常大的进步。本届的主题Communication and Inequalities in Context或多或少得到了体现，至少从开幕Plenary的几位对谈者的背景和谈话内容可以看出来。同时，因为这次在南非举行，来自美国的学者大幅度减少（无官方数字，仅体感），加之中国师生的参与热情，所以目测此次中国学者的比例非常高。据我所知，上交、复旦、清华、浙大、华科等多所学校都有老师带队参会。
 
@@ -19,7 +19,7 @@ HMC的热门程度自不必言，尤其在中国学者中。从今年HMC divisio
 最后附上一幅开普敦贫民窟中生长出来的艺术品，非常符合我心目中的南非质感。在Chapman's Peak Drive（查普曼公路，世界上最著名的海景公路之一）的顶端停下拍照，遇到一位兜售工艺品的小哥，一聊之下原来来自津巴布韦，移民生活不易，于是跟他哥哥一起利用废材进行创作，展现开普敦的贫民窟风貌。
 
 <p align="center">
-  <img src="https://github.com/CFMHMC/yimou.github.io/blob/master/images/Art.png" width="60%">
+  <img src="https://raw.githubusercontent.com/CFMHMC/yimou.github.io/master/images/Art.png" width="60%">
 </p>
 
 
