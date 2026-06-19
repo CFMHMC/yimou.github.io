@@ -185,6 +185,14 @@ author_profile: true
 
 1.Fu, Y., Mou, Y., Lin, B. L., Liu, L., & Guo, Q. X. (2002). Structures of the X-Y-NO molecules and Homolytic Dissociation Energies of the Y-NO Bonds (Y= C, N, O, S). Journal of Physical Chemistry A, 106 (51), pp. 12386-92. [SCI Journal]
 
+**Media Articles**
+
+3.牟怡（2025）给AI添加的标签如何影响公众认知？《世界科学》2025年第1期，第38-39页。
+
+2.牟怡（2024年10月3日）脑机接口让人类逼近各种边界。《社会科学报》第6版。
+
+1.牟怡（2023）人机传播时代中的真与伪。《法制新闻传播》2023年第4辑，第65-66页。
+
 
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
